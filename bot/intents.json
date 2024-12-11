@@ -1,0 +1,99 @@
+{
+  "intents": [
+    {
+      "tag": "Blockchain",
+      "examples": ["Blockchain project ideas", "Give me blockchain-based projects", "What are some blockchain project ideas?"],
+      "responses": [
+        "1. Build a decentralized voting system.",
+        "2. Blockchain-based supply chain management.",
+        "3. Cryptocurrency wallet development.",
+        "4. Decentralized file storage system."
+      ]
+    },
+    {
+      "tag": "IoT",
+      "examples": ["Give me some IoT project ideas", "I am interested in IoT projects", "IoT based project suggestions"],
+      "responses": [
+        "1. Smart home automation system.",
+        "2. Wearable health monitoring device.",
+        "3. Smart agriculture system with IoT.",
+        "4. IoT-based environmental monitoring."
+      ]
+    },
+    {
+      "tag": "ML",
+      "examples": ["I want to do a project in AI", "AI project ideas", "Give me AI project suggestions"],
+      "responses": [
+        "1. Build a recommendation system for movies.",
+        "2. Chatbot using deep learning techniques.",
+        "3. Predictive model for healthcare outcomes.",
+        "4. Natural language processing for text summarization."
+      ]
+    },
+    {
+      "tag": "AI",
+      "examples": ["I want to do a project in AI", "AI project ideas", "Give me AI project suggestions"],
+      "responses": [
+        "1. Machine learning model for image recognition.",
+        "2. Sentiment analysis for social media posts.",
+        "3. Build a recommendation system for movies.",
+        "4. Chatbot using deep learning techniques.",
+        "5. Predictive model for healthcare outcomes.",
+        "6. Natural language processing for text summarization."
+      ]
+    },
+    {
+      "tag": "Web Development",
+      "examples": ["Give me some web development project ideas", "I want to build a website", "Suggest me some web development projects"],
+      "responses": [
+        "1. E-commerce website with payment integration.",
+        "2. Blog platform with user authentication.",
+        "3. Personal portfolio website.",
+        "4. Task management web app.",
+        "5. Online quiz platform.",
+        "6. Social media application."
+      ]
+    },
+    {
+      "tag": "Data Science",
+      "examples": ["Data science project ideas", "Give me data science suggestions", "What are some interesting data science projects?"],
+      "responses": [
+        "1. Predict stock market trends using machine learning.",
+        "2. Build a recommendation system for products.",
+        "3. Analyze customer reviews using sentiment analysis.",
+        "4. Predict housing prices based on multiple variables.",
+        "5. Create a data visualization dashboard for public data.",
+        "6. Use clustering to segment customers for marketing."
+      ]
+    },
+    {
+      "tag": "Cybersecurity",
+      "examples": ["Cybersecurity project ideas", "Give me cybersecurity project suggestions", "What are some cybersecurity projects?"],
+      "responses": [
+        "1. Build a firewall for protecting web applications.",
+        "2. Create a password strength checker.",
+        "3. Develop an intrusion detection system (IDS).",
+        "4. Design a secure file transfer system.",
+        "5. Build a secure chat application using encryption.",
+        "6. Create a phishing detection system."
+      ]
+    },
+    {
+      "tag": "Cloud Computing",
+      "examples": ["Cloud computing project ideas", "Give me cloud-based project suggestions", "What are some cloud computing projects?"],
+      "responses": [
+        "1. Build a cloud-based file storage system.",
+        "2. Develop a cloud-based photo management app.",
+        "3. Create a cloud service for team collaboration.",
+        "4. Set up a cloud-based disaster recovery system.",
+        "5. Design a cloud-based API for data analytics.",
+        "6. Build a cloud-based virtual machine management system."
+      ]
+    },
+    {
+      "tag": "default",
+      "examples": [],
+      "responses": ["I didn't understand your query. Can you try again with a specific domain?"]
+    }
+  ]
+}
